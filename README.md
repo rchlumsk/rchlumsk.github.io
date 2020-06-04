@@ -1,12 +1,13 @@
 README
 ================
 
-A repository for storing and updating [my personal webpage](https://rchlumsk.github.io).
+A repository for storing and updating [my personal webpage](https://rchlumsk.github.io). This is created with [Github pages](https://pages.github.com/).
 
 
 ## Creating a Github pages webpage
 
 To make your own webpage using Github pages with this template:
+
 \* create a new repository on your github account with the name *username*.github.io (as per the [Github pages website](https://pages.github.com/));  
 \* download the files from my repository (rchlumsk.github.io) or any other Github pages website that is public, accessible based on the license type;  
 \* modify the downloaded files with your own information using a text editor or other editor;  
